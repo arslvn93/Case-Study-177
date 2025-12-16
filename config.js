@@ -56,7 +56,7 @@ const config = {
       "title": "The Challenge",
       "paragraphs": [
         "Stepping into condo living for the first time with zero experience and genuine uncertainty about whether the lifestyle would actually suit them",
-        "Facing the fear of making an irreversible decision, worried they'd sell their Port Credit home and realize condo life wasn't for them",
+        "Facing the fear of making an irreversible decision—worried they'd sell their Port Credit home and realize condo life wasn't for them",
         "Feeling overwhelmed by the unknowns: Which condo should they choose? What if they regretted letting go of their detached home?",
         "Needing absolute clarity on the numbers and a plan that gave them options, not pressure, before they could move forward confidently"
       ],
