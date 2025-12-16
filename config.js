@@ -64,59 +64,27 @@ const config = {
     },
     {
       "type": "standard",
-      "title": "The Strategy",
-      "paragraphs": [
-        "Created a flexible transition plan that allowed them to rent out their Port Credit home for $9,800/month instead of forcing an immediate sale, giving them both income and options",
-        "Mapped out multiple scenarios with complete financial transparency so they understood exactly what they could afford and what each decision would mean for their future",
-        "Prepared everything in advance: finances, budget, must-haves, and priorities so they could act immediately and confidently when the right condo appeared",
-        "Identified a property that had been sitting on the market for an extended period, recognizing the sellers were motivated and creating leverage for negotiation",
-        "Negotiated strategically by holding firm on our offer and showing we had other options, ultimately securing the condo for 87% of the asking price: $90,000 below list plus favorable terms including inspection and a closing date that worked perfectly for their timeline"
-      ],
-      "testimonial": {
-        "quote": "\"Working with David didn't just give us a plan it gave us someone who really understood what we wanted, listened to our concerns, and made the whole process feel personal and easy. We never felt rushed or pressured. Every step was clear, every decision was backed by real numbers, and we always knew we had options. David helped us transition into a new chapter of our lives with confidence, and we couldn't be happier with how everything turned out. We always felt supported and knew we could trust their advice.\"<br><span> Satisfied Client</span>"
-      },
+      "title": "",
+      "paragraphs": [],
       "listItems": []
     },
     {
       "type": "standard",
-      "title": "The Solution",
-      "paragraphs": [
-        "They chose to work with me because they didn't want just another agent showing them properties, they needed someone who could map out a real strategy. This wasn't a simple transaction; it was a complete lifestyle shift that required careful planning, financial clarity, and a safety net. When I showed them how they could rent out their Port Credit home, test condo living risk-free, and maintain full flexibility, everything clicked into place."
-      ],
-      "image": {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1765809716632-INSIDE 2.jpg"
-      },
+      "title": "",
+      "paragraphs": [],
       "listItems": []
     },
     {
       "type": "standard",
-      "title": "The Results",
-      "paragraphs": [
-        "<strong>SAVED $90,000:</strong> Purchased their dream 2-bed, 2-bath condo for $585,000, a full $90,000 below the $675,000 asking price",
-        "<strong>SECURED $9,800/MONTH IN RENTAL INCOME:</strong> Successfully rented out their Port Credit home, turning it into a strong cash-flowing asset they didn't have to sell",
-        "<strong>CLOSED IN 45 DAYS</strong> with a home inspection included and a closing date tailored to their schedule no stress, no rush, just smooth execution",
-        "Gained more free time and less maintenance compared to managing a detached home, plus moved closer to family for easier visits and stronger connections",
-        "Achieved something they didn't think was possible: downsizing into condo living while keeping their Port Credit home and maintaining complete financial peace of mind"
-      ],
+      "title": "",
+      "paragraphs": [],
       "listItems": []
     },
     {
       "type": "standard",
-      "title": "Conclusion",
-      "paragraphs": [
-        "<strong>Preparation beats hesitation every time.</strong> When your finances, priorities, and plan are crystal clear before you start looking, you can move fast and confidently when the right property appears without second-guessing or losing out.",
-        "<strong>Flexibility is your greatest asset.</strong> Don't box yourself into all-or-nothing decisions. Creating options (like renting instead of selling) removes pressure and lets you make choices that truly fit your lifestyle and long-term goals.",
-        "<strong>Motivated sellers create opportunity.</strong> Properties that sit on the market longer often mean sellers are ready to negotiate. With the right strategy and leverage, you can secure exceptional value, like saving $90,000 without playing games or overpaying."
-      ],
+      "title": "",
+      "paragraphs": [],
       "listItems": []
-    },
-    {
-      "type": "ctaBanner",
-      "ctaBannerContent": {
-        "subhead": "Trusted By Hundreds Of Home Buyers & Sellers",
-        "headline": "Book Your Personalized Home Buying Strategy Session. We'll Map Out Your Numbers, Priorities, and Plan So You Can Buy With Complete Confidence (Not Stress)",
-        "smallText": "Book A Discovery Call Now ➡️"
-      }
     }
   ],
   "footer": {
