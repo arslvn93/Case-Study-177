@@ -30,14 +30,14 @@ const config = {
   },
   "mainBox": {
     "summary": {
-      "title": "How a Professional Couple Secured Their Dream Condo for $90,000 Below Asking—Without Selling Their Port Credit Home",
+      "title": "How a Professional Couple Secured Their Dream Condo for $90,000 Below Asking, Without Selling Their Port Credit Home",
       "heroImage": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1765809710927-FRONT 2.jpg"
       },
       "subTitle": "Summary",
       "paragraphs": [
         "Meet a professional couple who loved their Port Credit detached home but were ready to simplify their lifestyle. They wanted to explore condo living without the pressure of a permanent, all-or-nothing decision. The challenge? Figuring out how to downsize without giving up the financial security and flexibility they'd worked so hard to build.",
-        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>SAVED $90,000:</strong> Purchased their dream 2-bed, 2-bath condo for $585,000—a full $90,000 below the $675,000 asking price <strong>SECURED $9,800/MONTH IN RENTAL INCOME:</strong> Successfully rented out their Port Credit home, turning it into a strong cash-flowing asset they didn't have to sell <strong>CLOSED IN 45 DAYS</strong> with a home inspection included and a closing date tailored to their schedule—no stress, no rush, just smooth execution Gained more free time and less maintenance compared to managing a detached home, plus moved closer to family for easier visits and stronger connections Achieved something they didn't think was possible: downsizing into condo living while keeping their Port Credit home and maintaining complete financial peace of mind"
+        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>SAVED $90,000:</strong> Purchased their dream 2-bed, 2-bath condo for $585,000, a full $90,000 below the $675,000 asking price <strong>SECURED $9,800/MONTH IN RENTAL INCOME:</strong> Successfully rented out their Port Credit home, turning it into a strong cash-flowing asset they didn't have to sell <strong>CLOSED IN 45 DAYS</strong> with a home inspection included and a closing date tailored to their schedule, no stress, no rush, just smooth execution Gained more free time and less maintenance compared to managing a detached home, plus moved closer to family for easier visits and stronger connections Achieved something they didn't think was possible: downsizing into condo living while keeping their Port Credit home and maintaining complete financial peace of mind"
       ]
     },
     "sidebar": {
