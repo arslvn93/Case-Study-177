@@ -72,9 +72,6 @@ const config = {
         "Identified a property that had been sitting on the market for an extended period and recognized the sellers' urgency to close a deal",
         "Negotiated strategically by submitting a firm offer and holding our ground when the sellers initially resisted, knowing they had limited options and my clients had alternatives, ultimately securing the condo for 87% of asking price"
       ],
-      "testimonial": {
-        "quote": "\n"
-      },
       "listItems": []
     },
     {
@@ -124,7 +121,7 @@ const config = {
   "footer": {
     "privacyPolicy": {
       "text": "Privacy Policy",
-      "href": "https://docs.google.com/document/d/1Pytuhsw6ua1CWtKYg8v0cc3VSuO6u2zPksSPBAYYVUA/edit?tab=t.0"
+      "href": "https://coronagrp.ca/PrivacyPolicy"
     },
     "logo": {
       "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1765385238489-1 DAVID PIC 500KB.png"
