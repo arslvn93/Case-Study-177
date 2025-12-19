@@ -18,7 +18,7 @@ const config = {
     ],
     "companyName": "David Corona",
     "mainCTAButtonText": "Book A Discovery Call",
-    "mainCTAButtonURL": "#contact",
+    "mainCTAButtonURL": "https://calendly.com/coronagroup/discovery-call ",
     "primaryColor": "#e3c379",
     "accentColor": "#d9c6a2",
     "facebookPixelId": ""
