@@ -36,7 +36,7 @@ const config = {
       },
       "subTitle": "Summary",
       "paragraphs": [
-        "Meet a professional couple who loved their Port Credit detached home but were ready for something easier to manage. They wanted to try condo living without the pressure of burning bridgesm because what if it wasn't the right fit? They needed a plan that gave them flexibility, financial security, and the freedom to make the right decision on their own terms.",
+        "Meet a professional couple who loved their Port Credit detached home but were ready for something easier to manage. They wanted to try condo living without the pressure of burning bridges, because what if it wasn't the right fit? They needed a plan that gave them flexibility, financial security, and the freedom to make the right decision on their own terms.",
         "Through professional service and market expertise, we delivered exceptional results for our client. <strong>SAVED $90,000 OFF ASKING PRICE</strong>, purchased for $585,000 instead of $675,000. <strong>CLOSED IN 45 DAYS</strong> with flexible terms that fit their schedule perfectly. <strong>GENERATING $9,800/MONTH</strong> in rental income from their Port Credit home while enjoying their new condo lifestyle. Secured a ground-floor, 2-bedroom, 2-bathroom condo with 2 parking spots, checking every box on their must-have list. Gained extra budget for renovations and customization, turning their new space into exactly what they envisioned. Achieved a smooth, stress-free purchase with a home inspection included for complete peace of mind. Transitioned into low-maintenance living with more free time, closer proximity to family, and the confidence that they made the right lifestyle choice."
       ]
     },
