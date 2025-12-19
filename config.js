@@ -1,16 +1,5 @@
-// =================================================================================================
-// PAGE CONFIGURATION OBJECT
-// This file defines all the dynamic content for the case study page.
-// The `renderer.js` file reads this object to build the HTML.
-// To change text, images, or other content, edit the values in this file.
-// =_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_
 const config = {
   "globals": {
-    "companyName": "David Corona",
-    "mainCTAButtonText": "Book A Discovery Call",
-    "mainCTAButtonURL": "#contact",
-    "primaryColor": "#e3c379",
-    "accentColor": "#d9c6a2",
     "agents": [
       {
         "name": "David Corona",
@@ -26,7 +15,13 @@ const config = {
           }
         ]
       }
-    ]
+    ],
+    "companyName": "David Corona",
+    "mainCTAButtonText": "Book A Discovery Call",
+    "mainCTAButtonURL": "https://calendly.com/coronagroup/discovery-call",
+    "primaryColor": "#e3c379",
+    "accentColor": "#d9c6a2",
+    "facebookPixelId": ""
   },
   "header": {
     "tag": "CASE STUDY",
@@ -64,7 +59,8 @@ const config = {
         "Feeling overwhelmed by choice once their finances were sorted, not knowing which condo would truly meet their needs and priorities",
         "Worrying about making a permanent, irreversible decision in a major life transition without a safety net",
         "Balancing the desire to downsize with the fear of losing their valuable Port Credit home and the equity they'd built over the years"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "standard",
@@ -78,7 +74,8 @@ const config = {
       ],
       "testimonial": {
         "quote": "\"Working with David didn't just give us a plan—it gave us someone who really understood what we wanted, listened to our concerns, and made the whole process feel personal and easy. We never felt rushed or pressured. We always felt supported and knew we could trust his advice. He helped us save money, keep our Port Credit home, and find a condo that truly fits our lifestyle. We couldn't have asked for a better experience.\"<br><span>— Satisfied Client</span>"
-      }
+      },
+      "listItems": []
     },
     {
       "type": "standard",
@@ -88,7 +85,8 @@ const config = {
       ],
       "image": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1765809716632-INSIDE 2.jpg"
-      }
+      },
+      "listItems": []
     },
     {
       "type": "standard",
@@ -101,7 +99,8 @@ const config = {
         "Gained extra budget for renovations and customization, turning their new space into exactly what they envisioned",
         "Achieved a smooth, stress-free purchase with a home inspection included for complete peace of mind",
         "Transitioned into low-maintenance living with more free time, closer proximity to family, and the confidence that they made the right lifestyle choice"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "standard",
@@ -110,7 +109,8 @@ const config = {
         "<strong>Preparation beats luck every single time.</strong> Having your finances, priorities, and strategy organized before you start looking means you can act decisively when the right property appears—without hesitation or second-guessing.",
         "<strong>Don't be afraid to negotiate hard and hold your ground.</strong> If a property has been sitting on the market and the sellers are motivated, a firm, confident offer—even below asking—can save you tens of thousands of dollars.",
         "<strong>Flexibility isn't weakness—it's power.</strong> Building options into your plan (like renting instead of selling) removes the fear of making a permanent mistake and lets you move forward with confidence, knowing you're protected no matter what happens."
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "ctaBanner",
@@ -122,24 +122,24 @@ const config = {
     }
   ],
   "footer": {
+    "privacyPolicy": {
+      "text": "Privacy Policy",
+      "href": "https://docs.google.com/document/d/1Pytuhsw6ua1CWtKYg8v0cc3VSuO6u2zPksSPBAYYVUA/edit?tab=t.0"
+    },
     "logo": {
       "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1765385238489-1 DAVID PIC 500KB.png"
+    },
+    "secondaryLogo": {
+      "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/logos/1758053305735-TRANSPARENT LOGO (2).png"
     },
     "brokerageLabel": "Brokerage:",
     "brokerageName": "Royal Lepage Real Estate Services LTD., Brokerage",
     "brokerageAddress": "Mississauga, ON, L5M 0Y4",
-    "secondaryLogo": {
-      "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/logos/1758053305735-TRANSPARENT LOGO (2).png"
-    },
-    "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary.",
-    "privacyPolicy": {
-      "text": "Privacy Policy",
-      "href": "https://docs.google.com/document/d/1Pytuhsw6ua1CWtKYg8v0cc3VSuO6u2zPksSPBAYYVUA/edit?tab=t.0"
-    }
-  }
+    "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary."
+  },
+  "githubRepo": "https://github.com/arslvn93/Case-Study-177"
 };
 
-// Export for Node.js environment (if applicable) or set for browser
 if (typeof module !== 'undefined' && module.exports) {
   module.exports = config;
 } else if (typeof window !== 'undefined') {
