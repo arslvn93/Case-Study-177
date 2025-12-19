@@ -25,7 +25,7 @@ const config = {
   },
   "header": {
     "tag": "CASE STUDY",
-    "title": "How a Professional Couple Saved $90,000 and Downsized Into Their Dream Condo—Without Selling Their Port Credit Home",
+    "title": "How a Professional Couple Saved $90,000 and Downsized Into Their Dream Condo, Without Selling Their Port Credit Home",
     "subheadline": "Transitioned to Low-Maintenance Condo Living While Generating $9,800/Month From Their Rental Property"
   },
   "mainBox": {
