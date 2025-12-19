@@ -1,5 +1,16 @@
+// =================================================================================================
+// PAGE CONFIGURATION OBJECT
+// This file defines all the dynamic content for the case study page.
+// The `renderer.js` file reads this object to build the HTML.
+// To change text, images, or other content, edit the values in this file.
+// =_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_
 const config = {
   "globals": {
+    "companyName": "David Corona",
+    "mainCTAButtonText": "Book A Discovery Call",
+    "mainCTAButtonURL": "#contact",
+    "primaryColor": "#e3c379",
+    "accentColor": "#d9c6a2",
     "agents": [
       {
         "name": "David Corona",
@@ -15,29 +26,23 @@ const config = {
           }
         ]
       }
-    ],
-    "companyName": "David Corona",
-    "mainCTAButtonText": "Book A Discovery Call",
-    "mainCTAButtonURL": "https://calendly.com/coronagroup/discovery-call ",
-    "primaryColor": "#e3c379",
-    "accentColor": "#d9c6a2",
-    "facebookPixelId": ""
+    ]
   },
   "header": {
     "tag": "CASE STUDY",
-    "title": "How a Professional Couple Secured Their Dream Condo for $90,000 Below Asking, Without Selling Their Port Credit Home",
-    "subheadline": "Downsized Into Condo Living, Kept Their Port Credit Home Rented at $9,800/Month, and Saved $90,000 on Purchase Price"
+    "title": "How a Professional Couple Saved $90,000 and Downsized Into Their Dream Condo—Without Selling Their Port Credit Home",
+    "subheadline": "Transitioned to Low-Maintenance Condo Living While Generating $9,800/Month From Their Rental Property"
   },
   "mainBox": {
     "summary": {
-      "title": "How a Professional Couple Secured Their Dream Condo for $90,000 Below Asking, Without Selling Their Port Credit Home",
+      "title": "How a Professional Couple Saved $90,000 and Downsized Into Their Dream Condo—Without Selling Their Port Credit Home",
       "heroImage": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1765809710927-FRONT 2.jpg"
       },
       "subTitle": "Summary",
       "paragraphs": [
-        "Meet a professional couple who loved their Port Credit detached home but were ready to simplify their lifestyle. They wanted to explore condo living without the pressure of a permanent, all-or-nothing decision. The challenge? Figuring out how to downsize without giving up the financial security and flexibility they'd worked so hard to build.",
-        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>SAVED $90,000:</strong> Purchased their dream 2-bed, 2-bath condo for $585,000, a full $90,000 below the $675,000 asking price <strong>. SECURED $9,800/MONTH IN RENTAL INCOME:</strong> Successfully rented out their Port Credit home, turning it into a strong cash-flowing asset they didn't have to sell <strong>. CLOSED IN 45 DAYS</strong> with a home inspection included and a closing date tailored to their schedule, no stress, no rush, just smooth execution. Gained more free time and less maintenance compared to managing a detached home, plus moved closer to family for easier visits and stronger connections. Achieved something they didn't think was possible: downsizing into condo living while keeping their Port Credit home and maintaining complete financial peace of mind"
+        "Meet a professional couple who loved their Port Credit detached home but were ready for something easier to manage. They wanted to try condo living without the pressure of burning bridges—because what if it wasn't the right fit? They needed a plan that gave them flexibility, financial security, and the freedom to make the right decision on their own terms.",
+        "Through professional service and market expertise, we delivered exceptional results for our client. <strong>SAVED $90,000 OFF ASKING PRICE</strong> — purchased for $585,000 instead of $675,000 <strong>CLOSED IN 45 DAYS</strong> with flexible terms that fit their schedule perfectly <strong>GENERATING $9,800/MONTH</strong> in rental income from their Port Credit home while enjoying their new condo lifestyle Secured a ground-floor, 2-bedroom, 2-bathroom condo with 2 parking spots—checking every box on their must-have list Gained extra budget for renovations and customization, turning their new space into exactly what they envisioned Achieved a smooth, stress-free purchase with a home inspection included for complete peace of mind Transitioned into low-maintenance living with more free time, closer proximity to family, and the confidence that they made the right lifestyle choice"
       ]
     },
     "sidebar": {
@@ -55,57 +60,86 @@ const config = {
       "type": "standard",
       "title": "The Challenge",
       "paragraphs": [
-        "Stepping into condo living for the first time with zero experience and genuine uncertainty about whether the lifestyle would actually suit them",
-        "Facing the fear of making an irreversible decision—worried they'd sell their Port Credit home and realize condo life wasn't for them",
-        "Feeling overwhelmed by the unknowns: Which condo should they choose? What if they regretted letting go of their detached home?",
-        "Needing absolute clarity on the numbers and a plan that gave them options, not pressure, before they could move forward confidently"
+        "Stepping into condo living for the first time and wondering if they'd actually enjoy the lifestyle—without any way to reverse course if they hated it",
+        "Feeling overwhelmed by choice once their finances were sorted, not knowing which condo would truly meet their needs and priorities",
+        "Worrying about making a permanent, irreversible decision in a major life transition without a safety net",
+        "Balancing the desire to downsize with the fear of losing their valuable Port Credit home and the equity they'd built over the years"
+      ]
+    },
+    {
+      "type": "standard",
+      "title": "The Strategy",
+      "paragraphs": [
+        "Created a flexible transition plan that allowed them to rent out their Port Credit home for $9,800/month instead of selling it immediately—giving them a valuable safety net and strong passive income",
+        "Walked them through detailed financial scenarios so they understood their budget, affordability, and options with complete clarity before viewing a single property",
+        "Pre-qualified and organized their financing in advance, ensuring they could move quickly and confidently when the right condo appeared",
+        "Identified a property that had been sitting on the market for an extended period and recognized the sellers' urgency to close a deal",
+        "Negotiated strategically by submitting a firm offer and holding our ground when the sellers initially resisted—knowing they had limited options and my clients had alternatives—ultimately securing the condo for 87% of asking price"
       ],
-      "listItems": []
+      "testimonial": {
+        "quote": "\"Working with David didn't just give us a plan—it gave us someone who really understood what we wanted, listened to our concerns, and made the whole process feel personal and easy. We never felt rushed or pressured. We always felt supported and knew we could trust his advice. He helped us save money, keep our Port Credit home, and find a condo that truly fits our lifestyle. We couldn't have asked for a better experience.\"<br><span>— Satisfied Client</span>"
+      }
     },
     {
       "type": "standard",
-      "title": "",
-      "paragraphs": [],
-      "listItems": []
+      "title": "The Solution",
+      "paragraphs": [
+        "They chose to work with me because they didn't want just another agent showing them properties—they wanted someone who could map out a real strategy. This wasn't a typical transaction; it was a lifestyle shift that required thinking several steps ahead. When I showed them how they could rent out their Port Credit home, test condo living risk-free, and move forward without financial pressure, everything clicked into place."
+      ],
+      "image": {
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1765809716632-INSIDE 2.jpg"
+      }
     },
     {
       "type": "standard",
-      "title": "",
-      "paragraphs": [],
-      "listItems": []
+      "title": "The Results",
+      "paragraphs": [
+        "<strong>SAVED $90,000 OFF ASKING PRICE</strong> — purchased for $585,000 instead of $675,000",
+        "<strong>CLOSED IN 45 DAYS</strong> with flexible terms that fit their schedule perfectly",
+        "<strong>GENERATING $9,800/MONTH</strong> in rental income from their Port Credit home while enjoying their new condo lifestyle",
+        "Secured a ground-floor, 2-bedroom, 2-bathroom condo with 2 parking spots—checking every box on their must-have list",
+        "Gained extra budget for renovations and customization, turning their new space into exactly what they envisioned",
+        "Achieved a smooth, stress-free purchase with a home inspection included for complete peace of mind",
+        "Transitioned into low-maintenance living with more free time, closer proximity to family, and the confidence that they made the right lifestyle choice"
+      ]
     },
     {
       "type": "standard",
-      "title": "",
-      "paragraphs": [],
-      "listItems": []
+      "title": "Conclusion",
+      "paragraphs": [
+        "<strong>Preparation beats luck every single time.</strong> Having your finances, priorities, and strategy organized before you start looking means you can act decisively when the right property appears—without hesitation or second-guessing.",
+        "<strong>Don't be afraid to negotiate hard and hold your ground.</strong> If a property has been sitting on the market and the sellers are motivated, a firm, confident offer—even below asking—can save you tens of thousands of dollars.",
+        "<strong>Flexibility isn't weakness—it's power.</strong> Building options into your plan (like renting instead of selling) removes the fear of making a permanent mistake and lets you move forward with confidence, knowing you're protected no matter what happens."
+      ]
     },
     {
-      "type": "standard",
-      "title": "",
-      "paragraphs": [],
-      "listItems": []
+      "type": "ctaBanner",
+      "ctaBannerContent": {
+        "subhead": "Trusted By Hundreds Of Home Buyers & Sellers",
+        "headline": "Book Your Free Downsizing Strategy Session and discover exactly how much you could save—and how to protect your current home while making your next move with zero pressure",
+        "smallText": "Book A Discovery Call Now ➡️"
+      }
     }
   ],
   "footer": {
-    "privacyPolicy": {
-      "text": "Privacy Policy",
-      "href": "https://docs.google.com/document/d/1Pytuhsw6ua1CWtKYg8v0cc3VSuO6u2zPksSPBAYYVUA/edit?tab=t.0"
-    },
     "logo": {
       "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1765385238489-1 DAVID PIC 500KB.png"
-    },
-    "secondaryLogo": {
-      "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/logos/1758053305735-TRANSPARENT LOGO (2).png"
     },
     "brokerageLabel": "Brokerage:",
     "brokerageName": "Royal Lepage Real Estate Services LTD., Brokerage",
     "brokerageAddress": "Mississauga, ON, L5M 0Y4",
-    "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary."
-  },
-  "githubRepo": "https://github.com/arslvn93/Case-Study-177"
+    "secondaryLogo": {
+      "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/branding/logos/1758053305735-TRANSPARENT LOGO (2).png"
+    },
+    "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary.",
+    "privacyPolicy": {
+      "text": "Privacy Policy",
+      "href": "https://docs.google.com/document/d/1Pytuhsw6ua1CWtKYg8v0cc3VSuO6u2zPksSPBAYYVUA/edit?tab=t.0"
+    }
+  }
 };
 
+// Export for Node.js environment (if applicable) or set for browser
 if (typeof module !== 'undefined' && module.exports) {
   module.exports = config;
 } else if (typeof window !== 'undefined') {
